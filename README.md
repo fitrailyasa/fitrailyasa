@@ -1,6 +1,8 @@
 <div align="center">
-<b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fitrailyasa}/count.svg" /></p> 
+<b style = {font-size: 30px}>Fitra Ilyasa</b>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fitrailyasa&color=blueviolet" alt="Profile views" />
+</p>
 <br>
 </div>
 
