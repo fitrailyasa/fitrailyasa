@@ -22,7 +22,7 @@ Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA).
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
