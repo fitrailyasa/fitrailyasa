@@ -44,7 +44,7 @@ Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA).
 <a href="https://www.linkedin.com/in/fitrailyasa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-  <a href="https://www.instagram.com/fitrailyasa" target="_blank">
+  <a href="https://instagram.com/fitrailyasa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="mailto:fitrailyasa12@gmail.com" target="_blank">
