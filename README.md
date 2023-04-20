@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center"><u>About me</u></h2>
-Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 3 years of experience.
+Usually called Fitra, I am a student at the Institut Teknologi Sumatera (ITERA). I majored in Informatics Engineering and now I focus on Web Development with more than 5 years of experience.
 
 <h2 align="center"><u>Skills</u></h2>
 <p style="display: inline-block;" align="center">
