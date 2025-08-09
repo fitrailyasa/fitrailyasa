@@ -44,8 +44,3 @@ Usually called Fitra, I am a Web3 Developer with a degree in Informatics Enginee
   </nav>
 </div>
 <br>
-
-<div align="center">
-  <b style = {font-weight: 600}><u>Visitors Count</u></b>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fitrailyasa}/count.svg" /></p> 
-</div>
